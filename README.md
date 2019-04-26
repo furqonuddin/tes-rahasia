@@ -72,7 +72,7 @@ $ py app.py
 #
 
 No. | Nama | Job
-- | - | -
-1. | Andi | Sales
-2. | Budi | Marketing
-3. | Caca | Programer
+--- | --- | ---
+1 | Andi | Sales
+2 | Budi | Marketing
+3 | Caca | Programer
